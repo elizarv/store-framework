@@ -7,8 +7,8 @@
     },
     "image#landingbanner": {
         "props": {
-            "minWidth": "100%",
-            "scr": "https://www.google.com/search?q=vtex&rlz=1C1CHBD_esCO887CO888&sxsrf=ALeKk00qF63OGY4Kq_00wvfxR4vZmwTgaw:1591974110168&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjxy8_axfzpAhXIJt8KHQV-CbQQ_AUoAXoECBIQAw&biw=792&bih=744#imgrc=S7MMrbes4CMRkM&imgdii=kTgX7w_wrDgkHM"
+            "scr": "https://www.google.com/search?q=vtex&rlz=1C1CHBD_esCO887CO888&sxsrf=ALeKk00qF63OGY4Kq_00wvfxR4vZmwTgaw:1591974110168&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjxy8_axfzpAhXIJt8KHQV-CbQQ_AUoAXoECBIQAw&biw=792&bih=744#imgrc=S7MMrbes4CMRkM&imgdii=kTgX7w_wrDgkHM",
+            "minWidth": "100%"
         }
     },
     "search-result-layout.customQuery": {
