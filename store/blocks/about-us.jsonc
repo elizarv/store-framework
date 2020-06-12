@@ -18,29 +18,15 @@
         ]
     },
     "tab-list.item#home1": {
-        "children": [
-            "rich-text#list-home1"
-        ],
         "props": {
             "tabId": "majorAppliances",
+            "text": "Major Appliances",
             "defaultActiveTab": true
         }
     },
-    "rich-text#list-home1": {
-        "props": {
-            "text": "Major Appliances"
-        }
-    },
-    "rich-text#list-home2": {
-        "props": {
-            "text": "Electronics"
-        }
-    },
     "tab-list.item#home2": {
-        "children": [
-            "rich-text#list-home2"
-        ],
         "props": {
+            "text": "Electronics",
             "tabID": "electronics"
         }
     },
