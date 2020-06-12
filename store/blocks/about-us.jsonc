@@ -41,7 +41,7 @@
             "rich-text#home1"
         ],
         "props": {
-            "tabID": "majorAppliances"
+            "tabId": "majorAppliances"
         }
     },
     "tab-content.item#home2": {
