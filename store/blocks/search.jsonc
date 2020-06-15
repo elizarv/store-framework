@@ -19,7 +19,10 @@
       "search-fetch-previous",
       "flex-layout.row#results",
       "search-fetch-more"
-    ]
+    ],
+    "props":{
+      "pagination": "showMore"
+    }
   },
   "flex-layout.row#top": {
     "children": [

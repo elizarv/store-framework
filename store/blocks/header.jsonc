@@ -25,7 +25,16 @@
           "vtex.menu@2.x:menu#categories",
           "header-spacer"
         ]
-      },    
+      },   
+      
+      "header-row#menu-mobile": {
+        "children": [
+          "header-spacer",
+          "vtex.menu@2.x:menu#categories",
+          "header-spacer"
+        ]
+      },   
+      
       "header-layout.mobile": {
         "children": [
           "header-row#notification",
@@ -42,6 +51,7 @@
     },
     "header-row#main": {
         "children": [
+            "drawer",
             "logo",
             "header-spacer",
             "search-bar",
